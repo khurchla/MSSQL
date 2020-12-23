@@ -1,0 +1,2 @@
+# MSSQL
+general MSSQL; query
